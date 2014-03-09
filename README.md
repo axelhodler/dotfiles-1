@@ -1,6 +1,6 @@
 # Dotfiles
 
-My OS X / Ubuntu dotfiles.
+My OS X / Ubuntu dotfiles cloned from https://github.com/cowboy/dotfiles.git.
 
 ## Why is this a git repo?
 
